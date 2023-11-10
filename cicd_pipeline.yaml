@@ -1,0 +1,6 @@
+name: Build and Deploy
+
+on: push
+
+env:
+  APP_NAME: ms-salary-converter
